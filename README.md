@@ -1,6 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://github.com/TrixDiaz/Login_Authentication/assets/106210675/1eb02f99-f7e1-4c5f-b5d8-8c869866aef2)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<h3 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLaravel Single Login with Flash Notifcation </h3>
+<h3 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLaravel Single Page with Login with Multi User additional Flash Notification </h3>
 
 ![Simple login ](https://user-images.githubusercontent.com/106210675/218619614-9f0e2d35-b0b2-48bd-ba29-77d539c0cbc9.png)
 
